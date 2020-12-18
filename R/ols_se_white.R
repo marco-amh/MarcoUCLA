@@ -131,6 +131,6 @@ ols_se_white <-function(data_ols){
   return(list_results)
 }
 
-results_ols <- ols_se_white(data_ols=uclanomics::Money_demand[2:5])
-results_ols$Results
+#results_ols <- ols_se_white(data_ols=uclanomics::Money_demand[2:5])
+#results_ols$Results
 

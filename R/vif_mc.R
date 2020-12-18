@@ -35,7 +35,7 @@ vif_mc<- function(data_vif){
   return(r2)
 }
 
-vif_mc(data_vif=uclanomics::Money_demand[3:6])
+#vif_mc(data_vif=uclanomics::Money_demand[3:6])
 
 
 

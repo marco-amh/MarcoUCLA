@@ -84,4 +84,4 @@ sum_ols <- function(data_sum){
 
 }
 
-model_sum <- sum_ols(data=results_ols)
+#model_sum <- sum_ols(data=results_ols)
